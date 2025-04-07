@@ -33,3 +33,5 @@ The analyse result are summarized by follow:
 - It shows that DDoS is resolved fastest while malware takes the longest time.
 - The most common types of attacks that occurs is DDos and Phishing.
 - The most common targets among the industries is IT sector, Banking and Government.
+
+![myproject2](https://github.com/user-attachments/assets/3adc3bf6-813b-4a25-8eba-f38771e40964)
